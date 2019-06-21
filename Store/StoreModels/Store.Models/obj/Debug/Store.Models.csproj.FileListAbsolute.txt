@@ -1,0 +1,5 @@
+E:\Projects\C#\Store\StoreModels\Store.Models\bin\Debug\Store.Models.dll
+E:\Projects\C#\Store\StoreModels\Store.Models\bin\Debug\Store.Models.pdb
+E:\Projects\C#\Store\StoreModels\Store.Models\obj\Debug\Store.Models.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Store\StoreModels\Store.Models\obj\Debug\Store.Models.dll
+E:\Projects\C#\Store\StoreModels\Store.Models\obj\Debug\Store.Models.pdb
